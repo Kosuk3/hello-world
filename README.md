@@ -1,12 +1,8 @@
-# hello-world
+#ソフトウェア工学演習
 
-## 名前
-あずき
+##日付
+- 2023/1/12
 
-## 説明
-- うちの飼い猫
-- 毛色は真っ黒
-- 飼い始めて約4年
-- インターホンに敏感
-- 抱っこは嫌い
-- 甘えてはくる
+##自己紹介リスト
+- [Kousuk3](https://github.com/Kosuk3/hello-world/intro.md)
+- [MotoharuT](https://github.com/Kosuk3/hello-world/intro2.md)

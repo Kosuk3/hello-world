@@ -4,5 +4,5 @@
 - 2023/1/12
 
 ##自己紹介リスト
-- [Kousuk3](https://github.com/Kosuk3/hello-world/intro.md)
-- [MotoharuT](https://github.com/Kosuk3/hello-world/intro2.md)
+- [Kousuk3](intro.md)
+- [MotoharuT](intro2.md)
